@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/calculator-app/static/css/main.c6f315a3.chunk.css",
+    "main.js": "/calculator-app/static/js/main.a5ccd2f9.chunk.js",
+    "main.js.map": "/calculator-app/static/js/main.a5ccd2f9.chunk.js.map",
+    "runtime~main.js": "/calculator-app/static/js/runtime~main.abe9a17b.js",
+    "runtime~main.js.map": "/calculator-app/static/js/runtime~main.abe9a17b.js.map",
+    "static/css/2.daa07694.chunk.css": "/calculator-app/static/css/2.daa07694.chunk.css",
+    "static/js/2.b8cbfd2b.chunk.js": "/calculator-app/static/js/2.b8cbfd2b.chunk.js",
+    "static/js/2.b8cbfd2b.chunk.js.map": "/calculator-app/static/js/2.b8cbfd2b.chunk.js.map",
+    "index.html": "/calculator-app/index.html",
+    "precache-manifest.3b90aa2509b976e1f3dce31df3af7a52.js": "/calculator-app/precache-manifest.3b90aa2509b976e1f3dce31df3af7a52.js",
+    "service-worker.js": "/calculator-app/service-worker.js",
+    "static/css/2.daa07694.chunk.css.map": "/calculator-app/static/css/2.daa07694.chunk.css.map",
+    "static/css/main.c6f315a3.chunk.css.map": "/calculator-app/static/css/main.c6f315a3.chunk.css.map",
+    "static/media/bootstrap.min.css": "/calculator-app/static/media/glyphicons-halflings-regular.fa277232.woff"
+  }
+}
